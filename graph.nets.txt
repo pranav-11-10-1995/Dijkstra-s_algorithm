@@ -1,0 +1,40 @@
+NumPins : 13
+A 
+O
+weight : 3
+A
+F
+weight : 4
+A
+C
+weight : 2
+O
+F
+weight : 5
+F
+C
+weight : 4
+O
+B
+weight : 13
+O
+D
+weight : 7
+F
+D
+weight : 6
+F
+G
+weight : 4
+C
+G
+weight : 6
+D
+E
+weight : 9
+G
+E
+weight : 8
+B
+E
+weight : 4
